@@ -1,2 +1,2 @@
 # Azure Boards Integration Example
-Project to demonstrate de integration with Azure Boards and GitHub.
+Projeto para demonstração da integração do GitHub com o Azure Boards.
